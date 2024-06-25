@@ -8,3 +8,4 @@ yidadaa/chatgpt-next-web
 wallabag/wallabag
 vaultwarden/server
 cloudnas/clouddrive2
+chenzhaoyu94/chatgpt-web
