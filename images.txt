@@ -3,6 +3,7 @@ wallabag/wallabag
 vaultwarden/server
 cloudnas/clouddrive2
 lobehub/lobe-chat
+searxng/searxng
 postgres:15-alpine
 nginx:latest
 redis:6-alpine
