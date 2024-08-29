@@ -12,3 +12,4 @@ langgenius/dify-sandbox:0.2.6
 langgenius/dify-web:0.7.2
 langgenius/dify-api:0.7.2
 idootop/mi-gpt
+justsong/one-api
