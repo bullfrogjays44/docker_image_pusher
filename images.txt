@@ -1,3 +1,4 @@
+vaultwarden/server
 yidadaa/chatgpt-next-web
 wallabag/wallabag
 vaultwarden/server
