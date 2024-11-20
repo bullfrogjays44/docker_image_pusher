@@ -3,8 +3,8 @@ yidadaa/chatgpt-next-web
 wallabag/wallabag
 vaultwarden/server
 cloudnas/clouddrive2
-xdbin/beancount-gs
 lobehub/lobe-chat
+xdbin/beancount-gs
 postgres:15-alpine
 nginx:latest
 redis:6-alpine
