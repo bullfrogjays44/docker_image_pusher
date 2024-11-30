@@ -5,6 +5,7 @@ vaultwarden/server
 cloudnas/clouddrive2
 lobehub/lobe-chat
 xdbin/beancount-gs
+rustdesk/rustdesk-server
 postgres:15-alpine
 nginx:latest
 redis:6-alpine
