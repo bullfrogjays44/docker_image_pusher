@@ -1,5 +1,6 @@
 vaultwarden/server
 yidadaa/chatgpt-next-web
+neosmemo/memos
 wallabag/wallabag
 vaultwarden/server
 cloudnas/clouddrive2
