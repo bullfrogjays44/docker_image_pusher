@@ -4,6 +4,7 @@ neosmemo/memos
 wallabag/wallabag
 vaultwarden/server
 cloudnas/clouddrive2
+yegle/fava
 lobehub/lobe-chat
 xdbin/beancount-gs
 rustdesk/rustdesk-server
