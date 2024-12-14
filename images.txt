@@ -1,6 +1,7 @@
 vaultwarden/server
 gdy666/lucky
 yidadaa/chatgpt-next-web
+advplyr/audiobookshelf
 neosmemo/memos
 wallabag/wallabag
 vaultwarden/server
