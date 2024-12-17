@@ -1,4 +1,5 @@
 vaultwarden/server
+nyanmisaka/jellyfin
 gdy666/lucky
 yidadaa/chatgpt-next-web
 advplyr/audiobookshelf
