@@ -1,5 +1,6 @@
 vaultwarden/server
 nyanmisaka/jellyfin
+homeassistant/home-assistant
 gdy666/lucky
 yidadaa/chatgpt-next-web
 advplyr/audiobookshelf
