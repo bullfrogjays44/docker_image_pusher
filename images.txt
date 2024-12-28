@@ -1,12 +1,11 @@
 vaultwarden/server
-nyanmisaka/jellyfin
+talebook/talebook
 homeassistant/home-assistant
 gdy666/lucky
 yidadaa/chatgpt-next-web
 advplyr/audiobookshelf
 neosmemo/memos
 wallabag/wallabag
-vaultwarden/server
 cloudnas/clouddrive2
 yegle/fava
 lobehub/lobe-chat
