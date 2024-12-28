@@ -1,5 +1,4 @@
 vaultwarden/server
-talebook/talebook
 homeassistant/home-assistant
 gdy666/lucky
 yidadaa/chatgpt-next-web
