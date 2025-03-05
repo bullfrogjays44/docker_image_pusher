@@ -21,3 +21,4 @@ langgenius/dify-api:0.15.3
 idootop/mi-gpt
 justsong/one-api
 linuxserver/grocy
+mvdctop/mdc
