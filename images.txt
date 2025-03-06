@@ -22,3 +22,4 @@ idootop/mi-gpt
 justsong/one-api
 linuxserver/grocy
 mvdctop/mdc
+lanzhihong/stock-scanner
