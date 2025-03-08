@@ -14,6 +14,7 @@ postgres:15-alpine
 nginx:latest
 redis:6-alpine
 ubuntu/squid:latest
+semitechnologies/weaviate:1.19.0
 langgenius/qdrant:v1.7.3
 langgenius/dify-sandbox:0.2.10
 langgenius/dify-web:1.0.0
