@@ -25,3 +25,4 @@ justsong/one-api
 linuxserver/grocy
 mvdctop/mdc
 lanzhihong/stock-scanner
+shenxianmq/auto_symlink
