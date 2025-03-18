@@ -2,6 +2,7 @@ vaultwarden/server
 homeassistant/home-assistant
 gdy666/lucky
 yidadaa/chatgpt-next-web
+nyanmisaka/jellyfin
 advplyr/audiobookshelf
 neosmemo/memos
 wallabag/wallabag
