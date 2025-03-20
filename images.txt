@@ -7,7 +7,6 @@ advplyr/audiobookshelf
 neosmemo/memos
 wallabag/wallabag
 cloudnas/clouddrive2
-cloudnas/clouddrive2-unstable
 yegle/fava
 lobehub/lobe-chat
 xdbin/beancount-gs
