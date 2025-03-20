@@ -7,6 +7,7 @@ advplyr/audiobookshelf
 neosmemo/memos
 wallabag/wallabag
 cloudnas/clouddrive2
+cloudnas/clouddrive2-unstable
 yegle/fava
 lobehub/lobe-chat
 xdbin/beancount-gs
@@ -27,4 +28,3 @@ linuxserver/grocy
 mvdctop/mdc
 lanzhihong/stock-scanner
 shenxianmq/auto_symlink
-cloudnas/clouddrive2:0.8.8
