@@ -19,10 +19,8 @@ semitechnologies/weaviate:1.19.0
 langgenius/qdrant:v1.7.3
 langgenius/dify-sandbox:latest
 langgenius/dify-web:latest
-langgenius/dify-web:1.1.1
 langgenius/dify-web:1.1.0
 langgenius/dify-api:latest
-langgenius/dify-api:1.1.1
 langgenius/dify-api:1.1.0
 langgenius/dify-plugin-daemon:latest-local
 langgenius/dify-plugin-daemon:0.0.5-local
