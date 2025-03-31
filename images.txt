@@ -30,3 +30,4 @@ linuxserver/grocy
 mvdctop/mdc
 lanzhihong/stock-scanner
 shenxianmq/auto_symlink
+gotson/komga
