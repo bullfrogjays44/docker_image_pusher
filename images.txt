@@ -17,13 +17,13 @@ redis:6-alpine
 ubuntu/squid:latest
 semitechnologies/weaviate:1.19.0
 langgenius/dify-sandbox:latest
-langgenius/dify-sandbox:0.2.11
+langgenius/dify-sandbox:0.2.10
 langgenius/dify-web:latest
-langgenius/dify-web:0.15.5
+langgenius/dify-web:1.0.1
 langgenius/dify-api:latest
-langgenius/dify-api:0.15.5
+langgenius/dify-api:1.0.1
 langgenius/dify-plugin-daemon:latest-local
-langgenius/dify-plugin-daemon:0.0.5-local
+langgenius/dify-plugin-daemon:0.0.4-local
 idootop/mi-gpt
 justsong/one-api
 linuxserver/grocy
