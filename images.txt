@@ -1,11 +1,5 @@
 yidadaa/chatgpt-next-web
 nyanmisaka/jellyfin
 wallabag/wallabag
-doc75/wallabag
 yegle/fava
-linuxserver/grocy
-mvdctop/mdc
-lanzhihong/stock-scanner
-shenxianmq/auto_symlink
-gotson/komga
 vandereer/lazy-beancount
