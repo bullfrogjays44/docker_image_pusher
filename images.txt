@@ -3,3 +3,6 @@ nyanmisaka/jellyfin
 wallabag/wallabag
 yegle/fava
 vandereer/lazy-beancount
+ghcr.io/karakeep-app/karakeep
+gcr.io/zenika-hub/alpine-chrome:123
+getmeili/meilisearch:v1.13.3
