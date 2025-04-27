@@ -1,6 +1,8 @@
 yidadaa/chatgpt-next-web
 nyanmisaka/jellyfin
 wallabag/wallabag
+mariadb
+redis:alpine
 yegle/fava
 linuxserver/grocy
 mvdctop/mdc
