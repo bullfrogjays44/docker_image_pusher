@@ -1,6 +1,8 @@
 yidadaa/chatgpt-next-web
 nyanmisaka/jellyfin
 wallabag/wallabag
+wallabag/wallabag：2.6.1
+wallabag/wallabag：2.5.4
 mariadb
 redis:alpine
 yegle/fava
