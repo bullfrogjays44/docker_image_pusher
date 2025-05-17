@@ -7,3 +7,12 @@ ghcr.io/karakeep-app/karakeep
 gcr.io/zenika-hub/alpine-chrome:123
 getmeili/meilisearch:v1.13.3
 linuxserver/duplicati
+langgenius/dify-api:latest
+langgenius/dify-web:latest
+postgres:15-alpine
+redis:6-alpine
+langgenius/dify-sandbox:latest
+langgenius/dify-plugin-daemon:latest-local
+ubuntu/squid:latest
+nginx:latest
+semitechnologies/weaviate:1.19.0
