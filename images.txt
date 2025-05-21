@@ -30,5 +30,5 @@ langgenius/dify-plugin-daemon:latest-local
 ubuntu/squid:latest
 nginx:latest
 semitechnologies/weaviate:1.19.0
-intelanalytics/ipex-llm-serving-xpu:2.2.0-b11
+intelanalytics/ipex-llm-serving-xpu:2.2.0-b19
 intelanalytics/ipex-llm-serving-xpu
