@@ -31,3 +31,6 @@ ubuntu/squid:latest
 nginx:latest
 semitechnologies/weaviate:1.19.0
 intelanalytics/ipex-llm-serving-xpu
+postgres:16-alpine
+ghcr.io/linkwarden/linkwarden
+getmeili/meilisearch:v1.12.8
